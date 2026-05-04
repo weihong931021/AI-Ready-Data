@@ -1,0 +1,17 @@
+案例ID,情境ID,證據ID,證據名稱,資料來源系統,欄位名稱,範例值,判斷用途,敏感等級,保留建議
+CASE_OVERTIME_001,S001,E001,出勤紀錄,HRIS,work_date,2026-04-18,計算每日工時與連續出勤,中,依公司出勤紀錄保存政策
+CASE_OVERTIME_001,S001,E001,出勤紀錄,HRIS,clock_in,09:12,判斷實際出勤時間,中,依公司出勤紀錄保存政策
+CASE_OVERTIME_001,S001,E001,出勤紀錄,HRIS,clock_out,23:48,判斷實際離勤時間,中,依公司出勤紀錄保存政策
+CASE_OVERTIME_001,S001,E002,加班申請,HRIS,overtime_hours,4.5,比對正式加班與實際工作負荷,中,依公司出勤紀錄保存政策
+CASE_OVERTIME_001,S001,E003,on-call值班表,維運排班系統,on_call_window,2026-04-18 22:00-2026-04-19 08:00,判斷夜間待命與異常工作負荷,中,至少保存至爭議風險解除
+CASE_OVERTIME_001,S001,E004,incident ticket,ITSM,ticket_id,INC-20260418-009,證明夜間緊急維運工作,中,至少保存至爭議風險解除
+CASE_OVERTIME_001,S001,E005,系統上線紀錄,DevOps,deploy_id,REL-CORE-20260418,連結專案上線壓力與工作內容,中,至少保存至專案結案後
+CASE_ONSITE_001,S004,E006,客戶派工單,PM系統,assignment_id,WO-CUST-20260421-003,證明受公司指派到客戶現場,中,至少保存至專案結案後
+CASE_ONSITE_001,S004,E007,門禁紀錄,客戶門禁系統,entry_time,2026-04-21 13:20,證明進出客戶場域時間,高,依合約與個資政策保存
+CASE_IDC_001,S007,E008,機房作業申請,IDC作業系統,work_order_id,IDC-MOP-20260422-011,證明機房作業內容與核准,中,至少保存至事故處理完成
+CASE_COMMUTE_001,S005,E009,診斷證明,醫療院所,diagnosis,右手腕骨折,連結傷害結果與給付補償流程,高,依個資與醫療資料權限控管
+CASE_HARASS_001,S006,E010,申訴紀錄,HR申訴系統,complaint_id,HR-CMP-20260423-001,確認申訴事實與處理起點,高,依申訴案件保存政策
+CASE_HARASS_001,S006,E011,調查訪談紀錄,HR申訴系統,interviewee_role,客戶窗口,支撐公司是否啟動調查程序,高,依申訴案件保存政策
+CASE_HARASS_001,S006,E012,諮商或工作調整紀錄,EAP/HR系統,support_action,暫停至客戶現場駐點,證明保護措施與改善行動,高,依個資與申訴案件保存政策
+CASE_HARASS_001,S006,E013,專案會議與訊息紀錄,協作工具,message_ref,Teams thread 2026-04-20,釐清不當言行與指揮鏈,高,依公司調查政策保存
+CASE_ONSITE_001,S004,E014,合約或駐點服務範圍,合約管理系統,contract_clause,客戶需提供安全作業環境,判斷客戶現場責任與公司協調義務,中,至少保存至合約結束後
