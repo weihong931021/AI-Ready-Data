@@ -1,0 +1,1041 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/7nd0y3",
+    "id": "7nd0y3",
+    "slide": 14,
+    "layoutId": "e1f1ef08-d10d-4b8d-82ce-ce4e003b335c",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "7375c7ec-3cc6-45bf-815a-c5434cd63740",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Aptos",
+      "Aptos Display"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "e1f1ef08-d10d-4b8d-82ce-ce4e003b335c",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "7375c7ec-3cc6-45bf-815a-c5434cd63740",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "7375c7ec-3cc6-45bf-815a-c5434cd63740",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/54zidony",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/udg7adsj",
+      "id": "2",
+      "bbox": [
+        0,
+        0,
+        1280,
+        6
+      ],
+      "geometry": "rect",
+      "fillColor": "#0B63F6",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nyd0z610",
+      "id": "3",
+      "bbox": [
+        70,
+        54,
+        900,
+        56
+      ],
+      "geometry": "rect",
+      "text": "Demo 2：精準止損，資遣程序合規確認",
+      "textPreview": "Demo 2：精準止損，資遣程序合規確認",
+      "resolvedFontSize": 37,
+      "resolvedTextStyle": {
+        "fontSize": 37,
+        "typeface": "Aptos Display",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Demo 2：精準止損，資遣程序合規確認"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Demo 2：精準止損，資遣程序合規確認",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Demo 2：精準止損，資遣程序合規確認",
+              "fontSize": 37,
+              "typeface": "Aptos Display",
+              "color": "#111827",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cvixczed",
+      "id": "4",
+      "bbox": [
+        66,
+        152,
+        540,
+        380
+      ],
+      "geometry": "rect",
+      "fillColor": "#0E1117",
+      "lineColor": "#1F2937",
+      "lineWidth": 1
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5gbq1ory",
+      "id": "5",
+      "bbox": [
+        95,
+        184,
+        480,
+        28
+      ],
+      "geometry": "rect",
+      "text": "EAP QA 畫面",
+      "textPreview": "EAP QA 畫面",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "EAP QA 畫面"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "EAP QA 畫面",
+          "runs": [
+            {
+              "index": 1,
+              "text": "EAP QA 畫面",
+              "fontSize": 24,
+              "typeface": "Aptos",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/upwb2hwf",
+      "id": "6",
+      "bbox": [
+        98,
+        230,
+        445,
+        86
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(99, 102, 217, 0.4)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nap4r65w",
+      "id": "7",
+      "bbox": [
+        118,
+        249,
+        405,
+        48
+      ],
+      "geometry": "rect",
+      "text": "我要資遣表現不佳的工程師，有哪些程序？期限是什麼？不照做會怎樣？",
+      "textPreview": "我要資遣表現不佳的工程師，有哪些程序？期限是什麼？不照做會怎樣？",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "我要資遣表現不佳的工程師，有哪些程序？期限是什麼"
+          },
+          {
+            "index": 2,
+            "text": "？不照做會怎樣？"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "我要資遣表現不佳的工程師，有哪些程序？期限是什麼？不照做會怎樣？",
+          "runs": [
+            {
+              "index": 1,
+              "text": "我要資遣表現不佳的工程師，有哪些程序？期限是什麼？不照做會怎樣？",
+              "fontSize": 16,
+              "typeface": "Aptos",
+              "color": "#FFFFFF"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c7u54zid",
+      "id": "8",
+      "bbox": [
+        98,
+        344,
+        445,
+        120
+      ],
+      "geometry": "rect",
+      "fillColor": "#151A22",
+      "lineColor": "#2B3443",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1orytsvu",
+      "id": "9",
+      "bbox": [
+        120,
+        382,
+        400,
+        42
+      ],
+      "geometry": "rect",
+      "text": "此區可在 Canva 中替換為實際平台 QA 截圖",
+      "textPreview": "此區可在 Canva 中替換為實際平台 QA 截圖",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "此區可在 Canva 中替換為實際平台 QA 截圖"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "此區可在 Canva 中替換為實際平台 QA 截圖",
+          "runs": [
+            {
+              "index": 1,
+              "text": "此區可在 Canva 中替換為實際平台 QA 截圖",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#9CA3AF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l0rqd4vm",
+      "id": "10",
+      "bbox": [
+        654,
+        152,
+        560,
+        380
+      ],
+      "geometry": "rect",
+      "fillColor": "#F7FAFF",
+      "lineColor": "#D8E0EF",
+      "lineWidth": 1
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wfyxobm5",
+      "id": "11",
+      "bbox": [
+        690,
+        184,
+        480,
+        34
+      ],
+      "geometry": "rect",
+      "text": "AI 回答重點",
+      "textPreview": "AI 回答重點",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "fontSize": 27,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "AI 回答重點"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "AI 回答重點",
+          "runs": [
+            {
+              "index": 1,
+              "text": "AI 回答重點",
+              "fontSize": 27,
+              "typeface": "Aptos",
+              "color": "#111827",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7u54zido",
+      "id": "12",
+      "bbox": [
+        690,
+        242,
+        18,
+        24
+      ],
+      "geometry": "rect",
+      "text": "•",
+      "textPreview": "•",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "•"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "•",
+          "runs": [
+            {
+              "index": 1,
+              "text": "•",
+              "fontSize": 17,
+              "typeface": "Aptos",
+              "color": "#0B63F6",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ed8bat47",
+      "id": "13",
+      "bbox": [
+        714,
+        242,
+        446,
+        47
+      ],
+      "geometry": "rect",
+      "text": "確認資遣理由、預告期、資遣費",
+      "textPreview": "確認資遣理由、預告期、資遣費",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "確認資遣理由、預告期、資遣費"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "確認資遣理由、預告期、資遣費",
+          "runs": [
+            {
+              "index": 1,
+              "text": "確認資遣理由、預告期、資遣費",
+              "fontSize": 17,
+              "typeface": "Aptos",
+              "color": "#111827"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lc7u54zi",
+      "id": "14",
+      "bbox": [
+        690,
+        281,
+        18,
+        24
+      ],
+      "geometry": "rect",
+      "text": "•",
+      "textPreview": "•",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "•"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "•",
+          "runs": [
+            {
+              "index": 1,
+              "text": "•",
+              "fontSize": 17,
+              "typeface": "Aptos",
+              "color": "#0B63F6",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wra5gbq1",
+      "id": "15",
+      "bbox": [
+        714,
+        281,
+        446,
+        47
+      ],
+      "geometry": "rect",
+      "text": "非自願離職證明",
+      "textPreview": "非自願離職證明",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "非自願離職證明"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "非自願離職證明",
+          "runs": [
+            {
+              "index": 1,
+              "text": "非自願離職證明",
+              "fontSize": 17,
+              "typeface": "Aptos",
+              "color": "#111827"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/36hcrmhk",
+      "id": "16",
+      "bbox": [
+        690,
+        320,
+        18,
+        24
+      ],
+      "geometry": "rect",
+      "text": "•",
+      "textPreview": "•",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "•"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "•",
+          "runs": [
+            {
+              "index": 1,
+              "text": "•",
+              "fontSize": 17,
+              "typeface": "Aptos",
+              "color": "#0B63F6",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/eloj2t83",
+      "id": "17",
+      "bbox": [
+        714,
+        320,
+        446,
+        47
+      ],
+      "geometry": "rect",
+      "text": "工資 / 出勤 / 績效紀錄",
+      "textPreview": "工資 / 出勤 / 績效紀錄",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "工資 / 出勤 / 績效紀錄"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "工資 / 出勤 / 績效紀錄",
+          "runs": [
+            {
+              "index": 1,
+              "text": "工資 / 出勤 / 績效紀錄",
+              "fontSize": 17,
+              "typeface": "Aptos",
+              "color": "#111827"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pg3ex0nu",
+      "id": "18",
+      "bbox": [
+        690,
+        359,
+        18,
+        24
+      ],
+      "geometry": "rect",
+      "text": "•",
+      "textPreview": "•",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "•"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "•",
+          "runs": [
+            {
+              "index": 1,
+              "text": "•",
+              "fontSize": 17,
+              "typeface": "Aptos",
+              "color": "#0B63F6",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wval87ed",
+      "id": "19",
+      "bbox": [
+        714,
+        359,
+        446,
+        47
+      ],
+      "geometry": "rect",
+      "text": "勞動事件法§37 工資推定",
+      "textPreview": "勞動事件法§37 工資推定",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "勞動事件法§37 工資推定"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "勞動事件法§37 工資推定",
+          "runs": [
+            {
+              "index": 1,
+              "text": "勞動事件法§37 工資推定",
+              "fontSize": 17,
+              "typeface": "Aptos",
+              "color": "#111827"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w3m94fu1",
+      "id": "20",
+      "bbox": [
+        690,
+        398,
+        18,
+        24
+      ],
+      "geometry": "rect",
+      "text": "•",
+      "textPreview": "•",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "•"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "•",
+          "runs": [
+            {
+              "index": 1,
+              "text": "•",
+              "fontSize": 17,
+              "typeface": "Aptos",
+              "color": "#0B63F6",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/loj2t83i",
+      "id": "21",
+      "bbox": [
+        714,
+        398,
+        446,
+        47
+      ],
+      "geometry": "rect",
+      "text": "大量解僱需 60 日前計畫",
+      "textPreview": "大量解僱需 60 日前計畫",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "大量解僱需 60 日前計畫"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "大量解僱需 60 日前計畫",
+          "runs": [
+            {
+              "index": 1,
+              "text": "大量解僱需 60 日前計畫",
+              "fontSize": 17,
+              "typeface": "Aptos",
+              "color": "#111827"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ex0nuxc3",
+      "id": "22",
+      "bbox": [
+        90,
+        575,
+        1090,
+        54
+      ],
+      "geometry": "rect",
+      "fillColor": "#E6F7EA",
+      "lineColor": "#E6F7EA",
+      "lineWidth": 1
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3itgfmlk",
+      "id": "23",
+      "bbox": [
+        120,
+        590,
+        1030,
+        26
+      ],
+      "geometry": "rect",
+      "text": "S008 → A006 → L023/L024/L025 → D009–D011",
+      "textPreview": "S008 → A006 → L023/L024/L025 → D009–D011",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "S008 → A006 → L023/L024/L025 → D009–D011"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "S008 → A006 → L023/L024/L025 → D009–D011",
+          "runs": [
+            {
+              "index": 1,
+              "text": "S008 → A006 → L023/L024/L025 → D009–D011",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#2F7D46",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wb2hwfyx",
+      "id": "24",
+      "bbox": [
+        1130,
+        674,
+        80,
+        22
+      ],
+      "geometry": "rect",
+      "text": "13",
+      "textPreview": "13",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "Aptos",
+        "alignment": "right"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "13"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "13",
+          "runs": [
+            {
+              "index": 1,
+              "text": "13",
+              "fontSize": 13,
+              "typeface": "Aptos",
+              "color": "#A6B1C2"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

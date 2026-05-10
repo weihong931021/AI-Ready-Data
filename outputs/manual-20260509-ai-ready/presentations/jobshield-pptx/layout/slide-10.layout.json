@@ -1,0 +1,356 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/8vzv3w",
+    "id": "8vzv3w",
+    "slide": 10,
+    "layoutId": "e1f1ef08-d10d-4b8d-82ce-ce4e003b335c",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "7375c7ec-3cc6-45bf-815a-c5434cd63740",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Aptos",
+      "Aptos Display"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "e1f1ef08-d10d-4b8d-82ce-ce4e003b335c",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "7375c7ec-3cc6-45bf-815a-c5434cd63740",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "7375c7ec-3cc6-45bf-815a-c5434cd63740",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m94fu18j",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x0nuxc3y",
+      "id": "2",
+      "bbox": [
+        0,
+        0,
+        1280,
+        6
+      ],
+      "geometry": "rect",
+      "fillColor": "#0B63F6",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4fu18jqh",
+      "id": "3",
+      "bbox": [
+        70,
+        54,
+        900,
+        56
+      ],
+      "geometry": "rect",
+      "text": "模型設計：事故如何變成決策鏈",
+      "textPreview": "模型設計：事故如何變成決策鏈",
+      "resolvedFontSize": 37,
+      "resolvedTextStyle": {
+        "fontSize": 37,
+        "typeface": "Aptos Display",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "模型設計：事故如何變成決策鏈"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "模型設計：事故如何變成決策鏈",
+          "runs": [
+            {
+              "index": 1,
+              "text": "模型設計：事故如何變成決策鏈",
+              "fontSize": 37,
+              "typeface": "Aptos Display",
+              "color": "#111827",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fil0rqd4",
+      "id": "4",
+      "bbox": [
+        72,
+        112,
+        1060,
+        32
+      ],
+      "geometry": "rect",
+      "text": "直接使用既有 Graph 節點截圖，不重新生成流程圖",
+      "textPreview": "直接使用既有 Graph 節點截圖，不重新生成流程圖",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "直接使用既有 Graph 節點截圖，不重新生成流程圖"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "直接使用既有 Graph 節點截圖，不重新生成流程圖",
+          "runs": [
+            {
+              "index": 1,
+              "text": "直接使用既有 Graph 節點截圖，不重新生成流程圖",
+              "fontSize": 17,
+              "typeface": "Aptos",
+              "color": "#0B63F6",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/nqxs72x4",
+      "id": "5",
+      "bbox": [
+        20,
+        124,
+        1240,
+        402
+      ],
+      "alt": "Graph path screenshot",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "a551f348-22d6-4015-8385-62157fb09df8",
+        "contentType": "image/png",
+        "byteLength": 411252
+      }
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xobm58z2",
+      "id": "6",
+      "bbox": [
+        74,
+        565,
+        1132,
+        64
+      ],
+      "geometry": "rect",
+      "fillColor": "#DDF2FF",
+      "lineColor": "#DDF2FF",
+      "lineWidth": 1
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/83itgfml",
+      "id": "7",
+      "bbox": [
+        106,
+        578,
+        1070,
+        38
+      ],
+      "geometry": "rect",
+      "text": "核心鏈：工作情境 S → 事故 A → 法規 L → 企業義務 D / 勞工權益 B → 文件 DOC → 罰則 P / 刑責 CR / 民事賠償 CV\n範例：S004 → A003 → L001/L002 → D002/D003 → DOC001/DOC003 → CR002",
+      "textPreview": "核心鏈：工作情境 S → 事故 A → 法規 L → 企業義務 D / 勞工權益 B → 文件 DOC → 罰則 P / 刑責 CR / 民事賠償 CV | 範例：S004 → A003 → L001/L002 → D002/D003 → DOC001/DOC003 → C...",
+      "resolvedFontSize": 14.51,
+      "resolvedTextStyle": {
+        "fontSize": 14.51,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "核心鏈：工作情境 S → 事故 A → 法規 L → 企業義務 D / 勞工權益 B → 文件 DOC → 罰則 P / 刑責 CR / 民事賠償 CV"
+          },
+          {
+            "index": 2,
+            "text": "範例：S004 → A003 → L001/L002 → D002/D003 → DOC001/DOC003 → CR002"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "核心鏈：工作情境 S → 事故 A → 法規 L → 企業義務 D / 勞工權益 B → 文件 DOC → 罰則 P / 刑責 CR / 民事賠償 CV",
+          "runs": [
+            {
+              "index": 1,
+              "text": "核心鏈：工作情境 S → 事故 A → 法規 L → 企業義務 D / 勞工權益 B → 文件 DOC → 罰則 P / 刑責 CR / 民事賠償 CV",
+              "fontSize": 14.51,
+              "typeface": "Aptos",
+              "color": "#111827",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "範例：S004 → A003 → L001/L002 → D002/D003 → DOC001/DOC003 → CR002",
+          "runs": [
+            {
+              "index": 1,
+              "text": "範例：S004 → A003 → L001/L002 → D002/D003 → DOC001/DOC003 → CR002",
+              "fontSize": 14.51,
+              "typeface": "Aptos",
+              "color": "#111827",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fepkzupw",
+      "id": "8",
+      "bbox": [
+        1130,
+        674,
+        80,
+        22
+      ],
+      "geometry": "rect",
+      "text": "09",
+      "textPreview": "09",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "Aptos",
+        "alignment": "right"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "09",
+          "runs": [
+            {
+              "index": 1,
+              "text": "09",
+              "fontSize": 13,
+              "typeface": "Aptos",
+              "color": "#A6B1C2"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

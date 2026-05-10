@@ -1,0 +1,955 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/e3d294",
+    "id": "e3d294",
+    "slide": 11,
+    "layoutId": "e1f1ef08-d10d-4b8d-82ce-ce4e003b335c",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "7375c7ec-3cc6-45bf-815a-c5434cd63740",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Aptos",
+      "Aptos Display"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "e1f1ef08-d10d-4b8d-82ce-ce4e003b335c",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "7375c7ec-3cc6-45bf-815a-c5434cd63740",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "7375c7ec-3cc6-45bf-815a-c5434cd63740",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fepkzupw",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4zidonyd",
+      "id": "2",
+      "bbox": [
+        0,
+        0,
+        1280,
+        6
+      ],
+      "geometry": "rect",
+      "fillColor": "#0B63F6",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xkf6dcbu",
+      "id": "3",
+      "bbox": [
+        70,
+        54,
+        900,
+        56
+      ],
+      "geometry": "rect",
+      "text": "Prompt Design 與 Context Engineering",
+      "textPreview": "Prompt Design 與 Context Engineering",
+      "resolvedFontSize": 37,
+      "resolvedTextStyle": {
+        "fontSize": 37,
+        "typeface": "Aptos Display",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Prompt Design 與 Context Engineering"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Prompt Design 與 Context Engineering",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Prompt Design 與 Context Engineering",
+              "fontSize": 37,
+              "typeface": "Aptos Display",
+              "color": "#111827",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mlkjm1cf",
+      "id": "4",
+      "bbox": [
+        72,
+        112,
+        1060,
+        32
+      ],
+      "geometry": "rect",
+      "text": "三類 Prompt 對應三種產品情境",
+      "textPreview": "三類 Prompt 對應三種產品情境",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "三類 Prompt 對應三種產品情境"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "三類 Prompt 對應三種產品情境",
+          "runs": [
+            {
+              "index": 1,
+              "text": "三類 Prompt 對應三種產品情境",
+              "fontSize": 17,
+              "typeface": "Aptos",
+              "color": "#0B63F6",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/f6dcbulw",
+      "id": "5",
+      "bbox": [
+        90,
+        170,
+        330,
+        230
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D8E0EF",
+      "lineWidth": 1
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4r65wjud",
+      "id": "6",
+      "bbox": [
+        120,
+        198,
+        270,
+        34
+      ],
+      "geometry": "rect",
+      "text": "應急導航",
+      "textPreview": "應急導航",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "fontSize": 25,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "應急導航"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "應急導航",
+          "runs": [
+            {
+              "index": 1,
+              "text": "應急導航",
+              "fontSize": 25,
+              "typeface": "Aptos",
+              "color": "#111827",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xc3ylc7u",
+      "id": "7",
+      "bbox": [
+        120,
+        250,
+        260,
+        70
+      ],
+      "geometry": "rect",
+      "text": "事故責任判定\n法定義務查詢\n雙面介面切換",
+      "textPreview": "事故責任判定 | 法定義務查詢 | 雙面介面切換",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "事故責任判定"
+          },
+          {
+            "index": 2,
+            "text": "法定義務查詢"
+          },
+          {
+            "index": 3,
+            "text": "雙面介面切換"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "事故責任判定",
+          "runs": [
+            {
+              "index": 1,
+              "text": "事故責任判定",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#5B6472"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "法定義務查詢",
+          "runs": [
+            {
+              "index": 1,
+              "text": "法定義務查詢",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#5B6472"
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "text": "雙面介面切換",
+          "runs": [
+            {
+              "index": 1,
+              "text": "雙面介面切換",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#5B6472"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m94fu18j",
+      "id": "8",
+      "bbox": [
+        118,
+        326,
+        274,
+        54
+      ],
+      "geometry": "rect",
+      "fillColor": "#D6E5FF",
+      "lineColor": "#D6E5FF",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fu18jqh0",
+      "id": "9",
+      "bbox": [
+        130,
+        337,
+        248,
+        34
+      ],
+      "geometry": "rect",
+      "text": "工程師到客戶機房搬伺服器扭傷，誰負責？",
+      "textPreview": "工程師到客戶機房搬伺服器扭傷，誰負責？",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "工程師到客戶機房搬伺服器扭傷，誰負責"
+          },
+          {
+            "index": 2,
+            "text": "？"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "工程師到客戶機房搬伺服器扭傷，誰負責？",
+          "runs": [
+            {
+              "index": 1,
+              "text": "工程師到客戶機房搬伺服器扭傷，誰負責？",
+              "fontSize": 13,
+              "typeface": "Aptos",
+              "color": "#111827",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/r65wjudg",
+      "id": "10",
+      "bbox": [
+        475,
+        170,
+        330,
+        230
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D8E0EF",
+      "lineWidth": 1
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ylc7u54z",
+      "id": "11",
+      "bbox": [
+        505,
+        198,
+        270,
+        34
+      ],
+      "geometry": "rect",
+      "text": "精準止損",
+      "textPreview": "精準止損",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "fontSize": 25,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "精準止損"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "精準止損",
+          "runs": [
+            {
+              "index": 1,
+              "text": "精準止損",
+              "fontSize": 25,
+              "typeface": "Aptos",
+              "color": "#111827",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9cvixcze",
+      "id": "12",
+      "bbox": [
+        505,
+        250,
+        260,
+        70
+      ],
+      "geometry": "rect",
+      "text": "資遣程序確認\n舉證缺口分析",
+      "textPreview": "資遣程序確認 | 舉證缺口分析",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "資遣程序確認"
+          },
+          {
+            "index": 2,
+            "text": "舉證缺口分析"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "資遣程序確認",
+          "runs": [
+            {
+              "index": 1,
+              "text": "資遣程序確認",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#5B6472"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "舉證缺口分析",
+          "runs": [
+            {
+              "index": 1,
+              "text": "舉證缺口分析",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#5B6472"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gr2p8nqx",
+      "id": "13",
+      "bbox": [
+        503,
+        326,
+        274,
+        54
+      ],
+      "geometry": "rect",
+      "fillColor": "#D6E5FF",
+      "lineColor": "#D6E5FF",
+      "lineWidth": 1
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nih4byhg",
+      "id": "14",
+      "bbox": [
+        515,
+        337,
+        248,
+        34
+      ],
+      "geometry": "rect",
+      "text": "要資遣表現不佳的工程師，有哪些程序？",
+      "textPreview": "要資遣表現不佳的工程師，有哪些程序？",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "要資遣表現不佳的工程師，有哪些程序？"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "要資遣表現不佳的工程師，有哪些程序？",
+          "runs": [
+            {
+              "index": 1,
+              "text": "要資遣表現不佳的工程師，有哪些程序？",
+              "fontSize": 13,
+              "typeface": "Aptos",
+              "color": "#111827",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yxobm58z",
+      "id": "15",
+      "bbox": [
+        860,
+        170,
+        330,
+        230
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D8E0EF",
+      "lineWidth": 1
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5o7qpg3e",
+      "id": "16",
+      "bbox": [
+        890,
+        198,
+        270,
+        34
+      ],
+      "geometry": "rect",
+      "text": "風險雷達",
+      "textPreview": "風險雷達",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "fontSize": 25,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "風險雷達"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "風險雷達",
+          "runs": [
+            {
+              "index": 1,
+              "text": "風險雷達",
+              "fontSize": 25,
+              "typeface": "Aptos",
+              "color": "#111827",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g3ex0nux",
+      "id": "17",
+      "bbox": [
+        890,
+        250,
+        260,
+        70
+      ],
+      "geometry": "rect",
+      "text": "同業對標\n裁罰統計",
+      "textPreview": "同業對標 | 裁罰統計",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "同業對標"
+          },
+          {
+            "index": 2,
+            "text": "裁罰統計"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "同業對標",
+          "runs": [
+            {
+              "index": 1,
+              "text": "同業對標",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#5B6472"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "裁罰統計",
+          "runs": [
+            {
+              "index": 1,
+              "text": "裁罰統計",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#5B6472"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rmhk3q5o",
+      "id": "18",
+      "bbox": [
+        888,
+        326,
+        274,
+        54
+      ],
+      "geometry": "rect",
+      "fillColor": "#D6E5FF",
+      "lineColor": "#D6E5FF",
+      "lineWidth": 1
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y1kre1w7",
+      "id": "19",
+      "bbox": [
+        900,
+        337,
+        248,
+        34
+      ],
+      "geometry": "rect",
+      "text": "100 人 IT 公司常加班，主要違規風險是什麼？",
+      "textPreview": "100 人 IT 公司常加班，主要違規風險是什麼？",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "100 人 IT"
+          },
+          {
+            "index": 2,
+            "text": "公司常加班，主要違規風險是什麼？"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "100 人 IT 公司常加班，主要違規風險是什麼？",
+          "runs": [
+            {
+              "index": 1,
+              "text": "100 人 IT 公司常加班，主要違規風險是什麼？",
+              "fontSize": 13,
+              "typeface": "Aptos",
+              "color": "#111827",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6dcbulwv",
+      "id": "20",
+      "bbox": [
+        90,
+        455,
+        1090,
+        145
+      ],
+      "geometry": "rect",
+      "fillColor": "#EEF4FF",
+      "lineColor": "#D8E0EF",
+      "lineWidth": 1
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vy90je9c",
+      "id": "21",
+      "bbox": [
+        120,
+        478,
+        1040,
+        86
+      ],
+      "geometry": "rect",
+      "text": "Robot Setting：繁體中文、台灣法規語境；先判斷使用場景；回答必須包含判定、義務、文件、罰則、風險；引用格式為法規名稱§條號；Cypher 使用 Neo4j v5，禁用 OVER()。",
+      "textPreview": "Robot Setting：繁體中文、台灣法規語境；先判斷使用場景；回答必須包含判定、義務、文件、罰則、風險；引用格式為法規名稱§條號；Cypher 使用 Neo4j v5，禁用 OVER()。",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Robot"
+          },
+          {
+            "index": 2,
+            "text": "Setting：繁體中文、台灣法規語境；先判斷使用場景；回答必須包含判定、義務、文件、罰則、風險；引用格"
+          },
+          {
+            "index": 3,
+            "text": "式為法規名稱§條號；Cypher 使用 Neo4j v5，禁用 OVER()。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Robot Setting：繁體中文、台灣法規語境；先判斷使用場景；回答必須包含判定、義務、文件、罰則、風險；引用格式為法規名稱§條號；Cypher 使用 Neo4j v5，禁用 OVER()。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Robot Setting：繁體中文、台灣法規語境；先判斷使用場景；回答必須包含判定、義務、文件、罰則、風險；引用格式為法規名稱§條號；Cypher 使用 Neo4j v5，禁用 OVER()。",
+              "fontSize": 21,
+              "typeface": "Aptos",
+              "color": "#111827"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/oj2t83it",
+      "id": "22",
+      "bbox": [
+        1130,
+        674,
+        80,
+        22
+      ],
+      "geometry": "rect",
+      "text": "10",
+      "textPreview": "10",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "Aptos",
+        "alignment": "right"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "10"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "10",
+          "runs": [
+            {
+              "index": 1,
+              "text": "10",
+              "fontSize": 13,
+              "typeface": "Aptos",
+              "color": "#A6B1C2"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}
